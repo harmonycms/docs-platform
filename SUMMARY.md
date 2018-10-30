@@ -16,4 +16,6 @@
 * [Project](project/README.md)
   * [Recipe](project/recipe.md)
   * [Stack](project/stack.md)
+  * [Project ID](project/project-id.md)
+  * [Project binding](project/project-binding.md)
 
