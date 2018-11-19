@@ -18,4 +18,7 @@
   * [Stack](project/stack.md)
   * [Project ID](project/project-id.md)
   * [Project binding](project/project-binding.md)
+* [Terms & conditions](terms-and-conditions/README.md)
+  * [Privacy policy](terms-and-conditions/privacy-policy.md)
+  * [Terms for authors](terms-and-conditions/terms-for-authors.md)
 
