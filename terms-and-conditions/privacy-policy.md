@@ -19,5 +19,11 @@ This Privacy Policy covers the information practices of [www.harmonycms.net](htt
 
 ### 2. Information Collected
 
-Harmony offers a variety of services that are collectively referred to as the “Services.” Harmony collects information from individuals who visit the Company’s Website \(**"Visitors"**\) and individuals who register to use the Services \(**"Customers"**\).
+Harmony offers a variety of services that are collectively referred to as the **"Services"**. Harmony collects information from individuals who visit the Company’s Website \(**"Visitors"**\) and individuals who register to use the Services \(**"Customers"**\).
+
+There are many aspects of the **"Website"** which can be viewed without providing personal information. However, for access to the **"HarmonyAccount"**, **"HarmonyDevelopers"** sub-domains, you are required to submit personally identifiable information. This may include but not limited to:
+
+* A unique username;
+* A password;
+* A valid email address.
 
