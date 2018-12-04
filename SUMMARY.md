@@ -20,5 +20,7 @@
   * [Project binding](project/project-binding.md)
 * [Terms & conditions](terms-and-conditions/README.md)
   * [Privacy policy](terms-and-conditions/privacy-policy.md)
+  * [Terms of service](terms-and-conditions/terms-of-service.md)
+  * [Terms of service for Harmony Developer](terms-and-conditions/terms-of-service-for-harmony-developer.md)
   * [Terms for authors](terms-and-conditions/terms-for-authors.md)
 
