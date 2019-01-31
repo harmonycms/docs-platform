@@ -4,7 +4,7 @@
 
 With the feature _Project_, we provide to every single end user a simple way to reflects which application they are trying to build. It used to bind add-ons to take advantage of automatic updates, along with easy installation and team collaboration.
 
-_Project_ works by connecting the end user to is account. It consist of a secure two-way communication between Harmony Platform and the installed application, giving to the end user an all-in-one interface to view and manage is own installed application directly from the Harmony Platform website.
+_Project_ works by connecting the end user to is account. It consist of a secure two-way communication between Harmony Platform and the installed application, giving to the end user an all-in-one interface to view and manage his own installed application directly from the Harmony Platform website.
 
 ### Simplified app management
 
